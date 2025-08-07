@@ -204,6 +204,9 @@ footer {
 
 /* Responsive */
 @media (max-width: 768px) {
+    body {
+        max-width: 100%;
+    }
   header nav {
     display: flex;
     flex-wrap: wrap;
